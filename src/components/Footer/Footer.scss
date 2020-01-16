@@ -1,0 +1,12 @@
+// @import "~govuk-frontend/govuk/all";
+
+@import "~govuk-frontend/govuk/components/textarea/textarea";
+@import "~govuk-frontend/govuk/components/footer/footer";
+@import "~govuk-frontend/govuk/components/button/button";
+
+@import "~@ministryofjustice/frontend/moj/objects/all";
+@import "~@ministryofjustice/frontend/moj/settings/all";
+// @import "~@ministryofjustice/frontend/moj/helpers/all";
+
+$govuk-font-family-nta: "Arial";
+$govuk-font-family-nta-tabular: "Arial";
